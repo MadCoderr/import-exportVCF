@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImportVCS</string>
+    <string name="import_data">Import</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sing_up">Sign Up</string>
+</resources>
